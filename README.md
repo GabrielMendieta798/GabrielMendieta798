@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,gitlab" />
 
-### Backend
+### Lenguajes & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,ts,js" />
 
