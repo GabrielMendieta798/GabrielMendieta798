@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 ✔  Estudiante de **Licenciatura en Sistemas**.
 
@@ -26,23 +26,23 @@
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <div align="center">
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,gitlab" />
 
-### 💻 Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,ts,js" />
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### ⚙️ Herramientas
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=vscode,githubactions,maven" />
 
@@ -62,7 +62,7 @@ La plataforma procesa las entregas de los estudiantes, prepara entornos reproduc
 
 `Python` · `FastAPI` · `Docker` · `Pytest`
 
-🎯 El objetivo es reducir tareas manuales de corrección y lograr un proceso más rápido, consistente y reproducible.
+El objetivo es reducir tareas manuales de corrección y lograr un proceso más rápido, consistente y reproducible.
 
 ---
 
