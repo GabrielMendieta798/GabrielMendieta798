@@ -26,7 +26,7 @@
 
 ---
 
-##  Tecnologías
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
 <div align="center">
 
@@ -50,9 +50,9 @@
 
 ---
 
-## 📌 Proyecto actual
+## Proyecto actual
 
-### 🤖 AYED Autograder
+### 🤖 [AYED Autograder](https://github.com/GabrielMendieta798/ayed-autograder)
 
 Actualmente estoy trabajando en un sistema orientado a **automatizar parte de la corrección de trabajos prácticos de Algoritmos y Estructuras de Datos**.
 
