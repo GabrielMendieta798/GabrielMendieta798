@@ -52,7 +52,7 @@
 
 ## Proyecto actual
 
-### 🤖 [AYED Autograder](https://github.com/GabrielMendieta798/ayed-autograder)
+### <img src="./assets/robot-breakdance.gif" width="40" /> [AYED Autograder](https://github.com/GabrielMendieta798/ayed-autograder)
 
 Actualmente estoy trabajando en un sistema orientado a **automatizar parte de la corrección de trabajos prácticos de Algoritmos y Estructuras de Datos**.
 
@@ -66,7 +66,7 @@ El objetivo es reducir tareas manuales de corrección y lograr un proceso más r
 
 ---
 
-##  Actualmente aprendiendo
+##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Actualmente Aprendiendo
 
 - ☁️ AWS y arquitectura Cloud
 - 📊 Monitoreo y observabilidad
@@ -91,7 +91,7 @@ El objetivo es reducir tareas manuales de corrección y lograr un proceso más r
 
 <div align="center">
 
-### 🔗 &nbsp;Contact Me
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div align="center">
 <a href="mailto:gabriel.mendieta7777@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
