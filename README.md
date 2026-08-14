@@ -52,7 +52,7 @@
 
 ## Proyecto actual
 
-### <img src="./assets/robot-breakdance.gif" width="40" /> [AYED Autograder](https://github.com/GabrielMendieta798/ayed-autograder)
+### :robot: [AYED Autograder](https://github.com/GabrielMendieta798/ayed-autograder)
 
 Actualmente estoy trabajando en un sistema orientado a **automatizar parte de la corrección de trabajos prácticos de Algoritmos y Estructuras de Datos**.
 
