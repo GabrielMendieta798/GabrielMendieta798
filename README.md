@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Gabriel;Estudiante+de+Sistemas;Fanatico+de+Marvel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Gabriel;Estudiante+de+Sistemas;DevOps+&+Cloud+Engineer!)](https://git.io/typing-svg)
 
 ### DevOps | Cloud | Backend | Automation
 
